@@ -1,4 +1,4 @@
-FROM kratan/bwvisu:bwvisu-base:centos7
+FROM kratan/bwvisu-nvidiacuda:centos7
 LABEL maintainer="andreas.kratzer@kit.edu"
 
 #Set Cuda Versions
